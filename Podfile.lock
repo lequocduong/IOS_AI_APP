@@ -1,0 +1,38 @@
+PODS:
+  - ffmpeg-kit-ios-full (6.0)
+  - FLEX (5.22.10)
+  - Masonry (1.1.0)
+  - onnxruntime-c (1.19.2)
+  - onnxruntime-objc (1.19.2):
+    - onnxruntime-objc/Core (= 1.19.2)
+  - onnxruntime-objc/Core (1.19.2):
+    - onnxruntime-c (= 1.19.2)
+  - OpenCV (4.3.0)
+
+DEPENDENCIES:
+  - ffmpeg-kit-ios-full (~> 6.0)
+  - FLEX
+  - Masonry
+  - onnxruntime-objc
+  - OpenCV
+
+SPEC REPOS:
+  trunk:
+    - ffmpeg-kit-ios-full
+    - FLEX
+    - Masonry
+    - onnxruntime-c
+    - onnxruntime-objc
+    - OpenCV
+
+SPEC CHECKSUMS:
+  ffmpeg-kit-ios-full: 0099a769d22114dde52cdc238397941c32f75d27
+  FLEX: f21ee4f498eed3f8a1eded66b21939fd3b7a22ce
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  onnxruntime-c: 2903d6221d5613ceaa417ee91140a248648bbb6c
+  onnxruntime-objc: 81ea957b360db9234121c3520a06a3ccbb479ffc
+  OpenCV: 681e0451c1e54c5930a8922277f817ed5d5ab459
+
+PODFILE CHECKSUM: b74fa15097c4a087e246b9fd189cea9c28de9516
+
+COCOAPODS: 1.15.2

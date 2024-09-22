@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>AI</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>App need your permission to sve a photo</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>App need your permission to sve  a photo</string>
+	<key>NSCameraUsageDescription</key>
+	<string>App need your permission to take a photo</string>
+</dict>
+</plist>
